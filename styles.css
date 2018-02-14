@@ -1,29 +1,33 @@
 /* add your CSS here */
-#frame{
-    border:1px solid  rgb(204, 204, 204);
-    width:305px;
-    margin:0 auto;
+#frame {
+    border: 1px solid  rgb(204, 204, 204);
+    width: 305px;
+    margin: 0 auto;
     padding: 15px;
     -webkit-box-shadow: 9px 9px 5px 0px rgba(224,224,224,1);
     -moz-box-shadow: 9px 9px 5px 0px rgba(224,224,224,1);
     box-shadow: 9px 9px 5px 0px rgba(224,224,224,1);
 }
 
-#caption{
-    border:1px solid rgb(204, 204, 204);
-    width:280px;
+#caption {
+    border: 1px solid rgb(204, 204, 204);
+    width: 280px;
     padding: 10px;
 }
-img{
+
+img {
     padding: 10px 0;
 }
-#interesting-fact{
-    font-style:italic; 
+
+#interesting-fact {
+    font-style: italic; 
 }
-.favorite-list-item span{
-    font-weight:bold; 
+
+.favorite-list-item span {
+    font-weight: bold; 
 }
-ul{
+
+ul {
     list-style-type: none;
-    padding: 0px;
+    padding: 0;
 }
